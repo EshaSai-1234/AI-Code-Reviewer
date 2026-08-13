@@ -1,0 +1,10 @@
+{
+  "name": "ai-code-review",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev:frontend": "npm --prefix apps/frontend run dev",
+    "dev:backend": "npm --prefix apps/backend run dev",
+    "dev": "node -e \"const { spawn } = require('child_process'); const fe = spawn('npm', ['--prefix', 'apps/frontend', 'run', 'dev'], { stdio: 'inherit', shell: true }); const be = spawn('npm', ['--prefix', 'apps/backend', 'run', 'dev'], { stdio: 'inherit', shell: true }); process.on('SIGINT', () => { fe.kill(); be.kill(); process.exit(); });\""
+  }
+}

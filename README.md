@@ -1,4 +1,4 @@
-# ⚡ AI Code Review System
+# AI Code Review System
 
 A high-precision, privacy-preserving, local-first **AI Code Review & Security Analysis System**. Built with Next.js (React + Tailwind CSS), Node.js (Express + TypeScript), and a multi-agent static/AST + LLM review engine.
 

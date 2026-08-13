@@ -17,7 +17,7 @@ Evaluated against industry standard vulnerability and defect datasets (**OWASP B
 | **Throughput** | **> 32,000 LOC/sec** | High-performance AST analysis speed. |
 | **Scan Latency (50 files)** | **< 180 ms** | Real-time interactive analysis response. |
 
-> 📖 **Full Evaluation Report:** See [evaluation_metrics.md](evaluation_metrics.md#L1) or [evaluation metrics.md](evaluation%20metrics.md#L1) for detailed mathematical formulas, Halstead volume derivations, and comparative matrices.
+> 📖 **Full Evaluation Report:** See [evaluation_metrics.md](evaluation_metrics.md#L1) for detailed mathematical formulas, Halstead volume derivations, and comparative matrices.
 
 ---
 

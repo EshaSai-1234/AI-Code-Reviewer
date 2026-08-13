@@ -1,5 +1,4 @@
-# <img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/0da022ec-0b12-4dcd-a157-94d72419b305" />
- AI Code Review System
+⚡ AI Code Review System
 
 A high-precision, privacy-preserving, local-first **AI Code Review & Security Analysis System**. Built with Next.js (React + Tailwind CSS), Node.js (Express + TypeScript), and a multi-agent static/AST + LLM review engine.
 
